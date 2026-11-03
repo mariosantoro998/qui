@@ -90,13 +90,13 @@ Verify your crypto donation at [crypto.getqui.com](https://crypto.getqui.com/) t
 - zze0s: `0xBF7d749574aabF17fC35b27232892d3F0ff4D423`
 
 #### Litecoin (LTC)
-- soup: `ltc1q86nx64mu2j22psj378amm58ghvy4c9dw80z88h`
-- zze0s: `ltc1qza9ffjr5y43uk8nj9ndjx9hkj0ph3rhur6wudn`
+- soup: `ltc1qy9dkl34x5hf5ukk6ep85n8h86x5q45r9xvp3um`
+- zze0s: `ltc1qy9dkl34x5hf5ukk6ep85n8h86x5q45r9xvp3um`
 
 #### Monero (XMR)
 - XMR discount codes are handled manually. Reach out on [Discord](https://discord.autobrr.com/qui) or email `s0up4200@pm.me`.
 - soup: `8AMPTPgjmLG9armLBvRA8NMZqPWuNT4US3kQoZrxDDVSU21kpYpFr1UCWmmtcBKGsvDCFA3KTphGXExWb3aHEu67JkcjAvC`
-- zze0s: `44AvbWXzFN3bnv2oj92AmEaR26PQf5Ys4W155zw3frvEJf2s4g325bk4tRBgH7umSVMhk88vkU3gw9cDvuCSHgpRPsuWVJp`
+- zze0s: `45gR8L7MrSFdZMSBA5bntpM8bBgrGWtyXTHsFRttMBvt2kgpEVHQfEtdN9NfddbUbzK2ubCTxFezDfDB3DpSkN9CScYipox`
 
 ---
 
